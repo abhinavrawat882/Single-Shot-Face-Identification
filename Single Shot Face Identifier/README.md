@@ -10,3 +10,4 @@ This identifier only takes one facial image to Identifi Faces.(Does not need to 
  
 #Link To datadet, model and notebook used to train and test the model.
 https://www.kaggle.com/abhinavrawat/face-recognition-mini-project
+https://www.kaggle.com/abhinavrawat/face-identification
