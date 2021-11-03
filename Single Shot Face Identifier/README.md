@@ -3,13 +3,17 @@ This identifier only takes one facial image to Identifi Faces.(Does not need to 
 
 # Theory
 
-<h>The model consists of : <\h>
+<h>The model consists of : </h>
 1. Deep CNN as a feature extractor. (effecient net b3.. could use higher version but crashed notbook with 16gb VRAM)
 2. Classification part that takes inputs as facial features of two faces and tells if the faces are of same person or not.
 
-# <h1>USAGE<\h1>
+# <h1>USAGE</h1>
 
 # <h2> 1.Directly The model </h2>
+<h3>Step 1. Get Model From the kaggle link at bottom</h3>
+<h3>Step 2. Model is keras model. Imoprt model by : </h3>
+<h4><br>from tensorflow import keras<br>
+model = keras.models.load_model('File Location') </h4>
 
  
 # Link To datadet, model and notebook used to train and test the model.<br>
