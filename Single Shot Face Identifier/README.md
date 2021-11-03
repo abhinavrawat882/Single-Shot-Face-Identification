@@ -8,3 +8,5 @@ This identifier only takes one facial image to Identifi Faces.(Does not need to 
 2. Classification part that takes inputs as facial features of two faces and tells if the faces are of same person or not.
   
  
+#Link To datadet, model and notebook used to train and test the model.
+https://www.kaggle.com/abhinavrawat/face-recognition-mini-project
