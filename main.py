@@ -39,5 +39,17 @@ while True:
             img=img[y:y+height,x:x+width]
         plt.imshow(img)
         plt.show()
-        break
+        #break
+        ######################################################
+        print("what is name of this person")
+        name=input()
+        print("Saving image")
+        cv2.imwrite("SavedImages/"+name+".jpg")
 
+
+        ######################################################
+        #    Load model
+        ######################################################
+        
+
+        
